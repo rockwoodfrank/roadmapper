@@ -1,0 +1,24 @@
+.blue-1 {
+    background-color: #3772ff;
+}
+
+.blue-incomplete {
+    background-color: #bcdeff;
+}
+
+.blue-complete {
+    background-color: #6fb1f1;
+}
+
+.orange-1 {
+    background-color: #ff895e;
+}
+
+.dark-text-1 {
+    color: #555555;
+}
+
+.light-text-1 {
+    color: #eeeeee;
+    text-decoration: none;
+}
